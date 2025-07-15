@@ -64231,9 +64231,6 @@ Tiësto - All Nighter</desc>
   <channel id="atpbastadmisolicfvsmollere">
     <display-name>ATP - BASTAD : Misolic F. vs Moller E.</display-name>
   </channel>
-  <channel id="atpgstaadcerundolojmvsstruffjl">
-    <display-name>ATP - GSTAAD : Cerundolo J. M. vs Struff J-L.</display-name>
-  </channel>
   <channel id="atpgstaadlandalucemvsgoffind">
     <display-name>ATP - GSTAAD : Landaluce M. vs Goffin D.</display-name>
   </channel>
@@ -64242,12 +64239,6 @@ Tiësto - All Nighter</desc>
   </channel>
   <channel id="atpgstaadshevchenkoavswawrinkas">
     <display-name>ATP - GSTAAD : Shevchenko A. vs Wawrinka S.</display-name>
-  </channel>
-  <channel id="wtahamburgnahimanasvsrusa">
-    <display-name>WTA - HAMBURG : Nahimana S. vs Rus A.</display-name>
-  </channel>
-  <channel id="wtahamburgtimofeevamvsjuvank">
-    <display-name>WTA - HAMBURG : Timofeeva M. vs Juvan K.</display-name>
   </channel>
   <channel id="wtahamburgkrunicavsgalfid">
     <display-name>WTA - HAMBURG : Krunic A. vs Galfi D.</display-name>
@@ -64309,12 +64300,6 @@ Tiësto - All Nighter</desc>
   <channel id="mlballstargame2025atlanta">
     <display-name>MLB All Star Game 2025 : Atlanta</display-name>
   </channel>
-  <channel id="internationalworldchampionshipswomengroupbchinavsnetherlands">
-    <display-name>International, World Championships, Women, Group B : China vs. Netherlands</display-name>
-  </channel>
-  <channel id="asiacupwomenjapanwvsaustraliaw">
-    <display-name>Asia Cup Women : Japan W vs Australia W</display-name>
-  </channel>
   <channel id="asiacupwomensouthkoreawvschinaw">
     <display-name>Asia Cup Women : South Korea W vs China W</display-name>
   </channel>
@@ -64350,9 +64335,6 @@ Tiësto - All Nighter</desc>
   </channel>
   <channel id="padelmlagap1premierpadel">
     <display-name>Padel: Málaga P1 - Premier Padel</display-name>
-  </channel>
-  <channel id="worldchampionshipswomenchinawvsnetherlandsw">
-    <display-name>World Championships Women : China W vs. Netherlands W</display-name>
   </channel>
   <channel id="worldchampionshipswomenitalywvssingaporew">
     <display-name>World Championships Women : Italy W vs Singapore W</display-name>
@@ -65020,16 +65002,6 @@ Tiësto - All Nighter</desc>
     <desc lang="it">ATP - BASTAD : Misolic F. vs Moller E.</desc>
     <category lang="it">Tennis ATP - BASTAD</category>
   </programme>
-  <programme start="20250715000000 +0200" stop="20250715103000 +0200" channel="atpgstaadcerundolojmvsstruffjl">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">ATP - GSTAAD : Cerundolo J. M. vs Struff J-L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715103000 +0200" stop="20250715123000 +0200" channel="atpgstaadcerundolojmvsstruffjl">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - GSTAAD : Cerundolo J. M. vs Struff J-L.</desc>
-    <category lang="it">Tennis ATP - GSTAAD</category>
-  </programme>
   <programme start="20250715000000 +0200" stop="20250715120000 +0200" channel="atpgstaadlandalucemvsgoffind">
     <title lang="it">Inizia alle 12:00.</title>
     <desc lang="it">ATP - GSTAAD : Landaluce M. vs Goffin D..</desc>
@@ -65059,26 +65031,6 @@ Tiësto - All Nighter</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP - GSTAAD : Shevchenko A. vs Wawrinka S.</desc>
     <category lang="it">Tennis ATP - GSTAAD</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715100000 +0200" channel="wtahamburgnahimanasvsrusa">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">WTA - HAMBURG : Nahimana S. vs Rus A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715100000 +0200" stop="20250715120000 +0200" channel="wtahamburgnahimanasvsrusa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - HAMBURG : Nahimana S. vs Rus A.</desc>
-    <category lang="it">Tennis WTA - HAMBURG :</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715100000 +0200" channel="wtahamburgtimofeevamvsjuvank">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">WTA - HAMBURG : Timofeeva M. vs Juvan K..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715100000 +0200" stop="20250715120000 +0200" channel="wtahamburgtimofeevamvsjuvank">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - HAMBURG : Timofeeva M. vs Juvan K.</desc>
-    <category lang="it">Tennis WTA - HAMBURG :</category>
   </programme>
   <programme start="20250715000000 +0200" stop="20250715110000 +0200" channel="wtahamburgkrunicavsgalfid">
     <title lang="it">Inizia alle 11:00.</title>
@@ -65390,26 +65342,6 @@ Tiësto - All Nighter</desc>
     <desc lang="it">MLB All Star Game 2025 : Atlanta</desc>
     <category lang="it">Baseball</category>
   </programme>
-  <programme start="20250715000000 +0200" stop="20250715100000 +0200" channel="internationalworldchampionshipswomengroupbchinavsnetherlands">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">International, World Championships, Women, Group B : China vs. Netherlands.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715100000 +0200" stop="20250715120000 +0200" channel="internationalworldchampionshipswomengroupbchinavsnetherlands">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">International, World Championships, Women, Group B : China vs. Netherlands</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715103000 +0200" channel="asiacupwomenjapanwvsaustraliaw">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Asia Cup Women : Japan W vs Australia W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715103000 +0200" stop="20250715123000 +0200" channel="asiacupwomenjapanwvsaustraliaw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Asia Cup Women : Japan W vs Australia W</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <programme start="20250715000000 +0200" stop="20250715133000 +0200" channel="asiacupwomensouthkoreawvschinaw">
     <title lang="it">Inizia alle 13:30.</title>
     <desc lang="it">Asia Cup Women : South Korea W vs China W.</desc>
@@ -65659,16 +65591,6 @@ Tiësto - All Nighter</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Padel: Málaga P1 - Premier Padel</desc>
     <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715100000 +0200" channel="worldchampionshipswomenchinawvsnetherlandsw">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">World Championships Women : China W vs. Netherlands W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715100000 +0200" stop="20250715120000 +0200" channel="worldchampionshipswomenchinawvsnetherlandsw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championships Women : China W vs. Netherlands W</desc>
-    <category lang="it">Water polo</category>
   </programme>
   <programme start="20250715000000 +0200" stop="20250715130000 +0200" channel="worldchampionshipswomenitalywvssingaporew">
     <title lang="it">Inizia alle 13:00.</title>
