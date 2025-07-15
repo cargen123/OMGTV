@@ -64487,9 +64487,6 @@ Alexandra Stan; Inna; Daddy Yankee - We Wanna</desc>
   <channel id="colombiaprimeraborsomarsovsbogot">
     <display-name>Colombia - Primera B : Orsomarso vs Bogotá</display-name>
   </channel>
-  <channel id="t20blastwomen2025durhamvssurrey">
-    <display-name>T20 Blast Women 2025 - Durham vs Surrey</display-name>
-  </channel>
   <channel id="natwestt20blastdurhamvsleicestershire">
     <display-name>NatWest T20 Blast : Durham vs Leicestershire</display-name>
   </channel>
@@ -64498,12 +64495,6 @@ Alexandra Stan; Inna; Daddy Yankee - We Wanna</desc>
   </channel>
   <channel id="globalsuperleaguet20hobarthurricanesvscentralstags">
     <display-name>Global Super League T20 : Hobart Hurricanes vs Central Stags</display-name>
-  </channel>
-  <channel id="atpbastadmisolicfvsmollere">
-    <display-name>ATP - BASTAD : Misolic F. vs Moller E.</display-name>
-  </channel>
-  <channel id="atpgstaadkymjvshemeryc">
-    <display-name>ATP - GSTAAD : Kym J. vs Hemery C.</display-name>
   </channel>
   <channel id="atpgstaadshevchenkoavswawrinkas">
     <display-name>ATP - GSTAAD : Shevchenko A. vs Wawrinka S.</display-name>
@@ -64514,20 +64505,8 @@ Alexandra Stan; Inna; Daddy Yankee - We Wanna</desc>
   <channel id="wtahamburgwernercvssteinerv">
     <display-name>WTA - HAMBURG : Werner C. vs Steiner V.</display-name>
   </channel>
-  <channel id="wtaiasilodikovadvscristianj">
-    <display-name>WTA - IASI : Lodikova D. vs Cristian J.</display-name>
-  </channel>
-  <channel id="wtaiasijonesfvsherrerolinanaa">
-    <display-name>WTA - IASI : Jones F. vs Herrero Linana A.</display-name>
-  </channel>
-  <channel id="wtaiasirouvroymvsudvardyp">
-    <display-name>WTA - IASI : Rouvroy M. vs Udvardy P.</display-name>
-  </channel>
   <channel id="wtaiasicirsteasvsbuzarnescum">
     <display-name>WTA - IASI : Cirstea S. vs Buzarnescu M.</display-name>
-  </channel>
-  <channel id="theopenchampionship25ranged2pm">
-    <display-name>The Open Championship '25 Range D2 PM</display-name>
   </channel>
   <channel id="championshipleaguesnookerjacksonpagevsliuwenwei">
     <display-name>Championship League Snooker : Jackson Page vs Liu Wenwei</display-name>
@@ -64547,20 +64526,11 @@ Alexandra Stan; Inna; Daddy Yankee - We Wanna</desc>
   <channel id="nbalasvegassummerleagueorlandomagicvsoklahomacitythunder">
     <display-name>NBA Las Vegas Summer League : Orlando Magic vs Oklahoma City Thunder</display-name>
   </channel>
-  <channel id="u19ehfchampionshipwomenukrainevsisrael">
-    <display-name>U19 EHF Championship Women : Ukraine vs. Israel</display-name>
-  </channel>
   <channel id="u19ehfchampionshipwomengeorgiavsgreatbritain">
     <display-name>U19 EHF Championship Women : Georgia vs. Great Britain</display-name>
   </channel>
-  <channel id="liveracingfrombeverleynottinghamkillarneyandthirsk">
-    <display-name>Live racing from Beverley, Nottingham, Killarney and Thirsk</display-name>
-  </channel>
   <channel id="padelmlagap1premierpadel">
     <display-name>Padel: Málaga P1 - Premier Padel</display-name>
-  </channel>
-  <channel id="worldchampionshipswomencroatiawvshungaryw">
-    <display-name>World Championships Women : Croatia W vs. Hungary W</display-name>
   </channel>
   <programme start="20250715000000 +0200" stop="20250715200000 +0200" channel="beyondthegatesseason1episode90">
     <title lang="it">Inizia alle 20:00.</title>
@@ -65012,16 +64982,6 @@ Alexandra Stan; Inna; Daddy Yankee - We Wanna</desc>
     <desc lang="it">Colombia - Primera B : Orsomarso vs Bogotá</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250715000000 +0200" stop="20250715160000 +0200" channel="t20blastwomen2025durhamvssurrey">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">T20 Blast Women 2025 - Durham vs Surrey.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715160000 +0200" stop="20250715180000 +0200" channel="t20blastwomen2025durhamvssurrey">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">T20 Blast Women 2025 - Durham vs Surrey</desc>
-    <category lang="it">Cricket</category>
-  </programme>
   <programme start="20250715000000 +0200" stop="20250715193000 +0200" channel="natwestt20blastdurhamvsleicestershire">
     <title lang="it">Inizia alle 19:30.</title>
     <desc lang="it">NatWest T20 Blast : Durham vs Leicestershire.</desc>
@@ -65101,26 +65061,6 @@ Alexandra Stan; Inna; Daddy Yankee - We Wanna</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Global Super League T20 : Hobart Hurricanes vs Central Stags</desc>
     <category lang="it">Cricket</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715153000 +0200" channel="atpbastadmisolicfvsmollere">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">ATP - BASTAD : Misolic F. vs Moller E..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715153000 +0200" stop="20250715173000 +0200" channel="atpbastadmisolicfvsmollere">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - BASTAD : Misolic F. vs Moller E.</desc>
-    <category lang="it">Tennis ATP - BASTAD</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715150000 +0200" channel="atpgstaadkymjvshemeryc">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">ATP - GSTAAD : Kym J. vs Hemery C..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715150000 +0200" stop="20250715170000 +0200" channel="atpgstaadkymjvshemeryc">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - GSTAAD : Kym J. vs Hemery C.</desc>
-    <category lang="it">Tennis ATP - GSTAAD</category>
   </programme>
   <programme start="20250715000000 +0200" stop="20250715173000 +0200" channel="atpgstaadshevchenkoavswawrinkas">
     <title lang="it">Inizia alle 17:30.</title>
@@ -65152,36 +65092,6 @@ Alexandra Stan; Inna; Daddy Yankee - We Wanna</desc>
     <desc lang="it">WTA - HAMBURG : Werner C. vs Steiner V.</desc>
     <category lang="it">Tennis WTA - HAMBURG :</category>
   </programme>
-  <programme start="20250715000000 +0200" stop="20250715153000 +0200" channel="wtaiasilodikovadvscristianj">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">WTA - IASI : Lodikova D. vs Cristian J..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715153000 +0200" stop="20250715173000 +0200" channel="wtaiasilodikovadvscristianj">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - IASI : Lodikova D. vs Cristian J.</desc>
-    <category lang="it">Tennis WTA - IASI :</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715160000 +0200" channel="wtaiasijonesfvsherrerolinanaa">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">WTA - IASI : Jones F. vs Herrero Linana A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715160000 +0200" stop="20250715180000 +0200" channel="wtaiasijonesfvsherrerolinanaa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - IASI : Jones F. vs Herrero Linana A.</desc>
-    <category lang="it">Tennis WTA - IASI :</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715160000 +0200" channel="wtaiasirouvroymvsudvardyp">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">WTA - IASI : Rouvroy M. vs Udvardy P..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715160000 +0200" stop="20250715180000 +0200" channel="wtaiasirouvroymvsudvardyp">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - IASI : Rouvroy M. vs Udvardy P.</desc>
-    <category lang="it">Tennis WTA - IASI :</category>
-  </programme>
   <programme start="20250715000000 +0200" stop="20250715173000 +0200" channel="wtaiasicirsteasvsbuzarnescum">
     <title lang="it">Inizia alle 17:30.</title>
     <desc lang="it">WTA - IASI : Cirstea S. vs Buzarnescu M..</desc>
@@ -65191,26 +65101,6 @@ Alexandra Stan; Inna; Daddy Yankee - We Wanna</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">WTA - IASI : Cirstea S. vs Buzarnescu M.</desc>
     <category lang="it">Tennis WTA - IASI :</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715150000 +0200" channel="theopenchampionship25ranged2pm">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">The Open Championship '25 Range D2 PM.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715150000 +0200" stop="20250715170000 +0200" channel="theopenchampionship25ranged2pm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">The Open Championship '25 Range D2 PM</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715150000 +0200" channel="theopenchampionship25ranged2pm">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">The Open Championship '25 Range D2 PM.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715150000 +0200" stop="20250715170000 +0200" channel="theopenchampionship25ranged2pm">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">The Open Championship '25 Range D2 PM</desc>
-    <category lang="it">Golf</category>
   </programme>
   <programme start="20250715000000 +0200" stop="20250715180000 +0200" channel="championshipleaguesnookerjacksonpagevsliuwenwei">
     <title lang="it">Inizia alle 18:00.</title>
@@ -65432,16 +65322,6 @@ Alexandra Stan; Inna; Daddy Yankee - We Wanna</desc>
     <desc lang="it">NBA Las Vegas Summer League : Orlando Magic vs Oklahoma City Thunder</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <programme start="20250715000000 +0200" stop="20250715163000 +0200" channel="u19ehfchampionshipwomenukrainevsisrael">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">U19 EHF Championship Women : Ukraine vs. Israel.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715163000 +0200" stop="20250715183000 +0200" channel="u19ehfchampionshipwomenukrainevsisrael">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">U19 EHF Championship Women : Ukraine vs. Israel</desc>
-    <category lang="it">Handball</category>
-  </programme>
   <programme start="20250715000000 +0200" stop="20250715183000 +0200" channel="u19ehfchampionshipwomengeorgiavsgreatbritain">
     <title lang="it">Inizia alle 18:30.</title>
     <desc lang="it">U19 EHF Championship Women : Georgia vs. Great Britain.</desc>
@@ -65452,36 +65332,6 @@ Alexandra Stan; Inna; Daddy Yankee - We Wanna</desc>
     <desc lang="it">U19 EHF Championship Women : Georgia vs. Great Britain</desc>
     <category lang="it">Handball</category>
   </programme>
-  <programme start="20250715000000 +0200" stop="20250715144500 +0200" channel="liveracingfrombeverleynottinghamkillarneyandthirsk">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">Live racing from Beverley, Nottingham, Killarney and Thirsk.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715144500 +0200" stop="20250715164500 +0200" channel="liveracingfrombeverleynottinghamkillarneyandthirsk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Beverley, Nottingham, Killarney and Thirsk</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715150000 +0200" channel="padelmlagap1premierpadel">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Padel: Málaga P1 - Premier Padel.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715150000 +0200" stop="20250715170000 +0200" channel="padelmlagap1premierpadel">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Padel: Málaga P1 - Premier Padel</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715150000 +0200" channel="padelmlagap1premierpadel">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Padel: Málaga P1 - Premier Padel.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715150000 +0200" stop="20250715170000 +0200" channel="padelmlagap1premierpadel">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Padel: Málaga P1 - Premier Padel</desc>
-    <category lang="it">Squash</category>
-  </programme>
   <programme start="20250715000000 +0200" stop="20250715170000 +0200" channel="padelmlagap1premierpadel">
     <title lang="it">Inizia alle 17:00.</title>
     <desc lang="it">Padel: Málaga P1 - Premier Padel.</desc>
@@ -65521,35 +65371,5 @@ Alexandra Stan; Inna; Daddy Yankee - We Wanna</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Padel: Málaga P1 - Premier Padel</desc>
     <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715144500 +0200" channel="worldchampionshipswomencroatiawvshungaryw">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">World Championships Women : Croatia W vs. Hungary W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715144500 +0200" stop="20250715164500 +0200" channel="worldchampionshipswomencroatiawvshungaryw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championships Women : Croatia W vs. Hungary W</desc>
-    <category lang="it">Water polo</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715144500 +0200" channel="worldchampionshipswomencroatiawvshungaryw">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">World Championships Women : Croatia W vs. Hungary W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715144500 +0200" stop="20250715164500 +0200" channel="worldchampionshipswomencroatiawvshungaryw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championships Women : Croatia W vs. Hungary W</desc>
-    <category lang="it">Water polo</category>
-  </programme>
-  <programme start="20250715000000 +0200" stop="20250715144500 +0200" channel="worldchampionshipswomencroatiawvshungaryw">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">World Championships Women : Croatia W vs. Hungary W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250715144500 +0200" stop="20250715164500 +0200" channel="worldchampionshipswomencroatiawvshungaryw">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championships Women : Croatia W vs. Hungary W</desc>
-    <category lang="it">Water polo</category>
   </programme>
 </tv>
