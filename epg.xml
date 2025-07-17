@@ -66328,9 +66328,6 @@ Lost Frequencies; James Blunt	- Melody</desc>
   <channel id="atpbastadgastonhvsdzumhurd">
     <display-name>ATP - BASTAD : Gaston H. vs Dzumhur D.</display-name>
   </channel>
-  <channel id="atpgstaadcomesanafvscarballesbaenar">
-    <display-name>ATP - GSTAAD : Comesana F. vs Carballes Baena R.</display-name>
-  </channel>
   <channel id="atpgstaadcerundolojmvsgoffind">
     <display-name>ATP - GSTAAD : Cerundolo J. M. vs Goffin D.</display-name>
   </channel>
@@ -66366,9 +66363,6 @@ Lost Frequencies; James Blunt	- Melody</desc>
   </channel>
   <channel id="wtaiasifettjvscristianj">
     <display-name>WTA - IASI : Fett J. vs Cristian J.</display-name>
-  </channel>
-  <channel id="wrcrallyestoniashakedown">
-    <display-name>WRC Rally Estonia - Shakedown</display-name>
   </channel>
   <channel id="wrcrallyestonia">
     <display-name>WRC: Rally Estonia</display-name>
@@ -67411,16 +67405,6 @@ Lost Frequencies; James Blunt	- Melody</desc>
     <desc lang="it">ATP - BASTAD : Gaston H. vs Dzumhur D.</desc>
     <category lang="it">Tennis ATP - BASTAD</category>
   </programme>
-  <programme start="20250717000000 +0200" stop="20250717103000 +0200" channel="atpgstaadcomesanafvscarballesbaenar">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">ATP - GSTAAD : Comesana F. vs Carballes Baena R..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250717103000 +0200" stop="20250717123000 +0200" channel="atpgstaadcomesanafvscarballesbaenar">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - GSTAAD : Comesana F. vs Carballes Baena R.</desc>
-    <category lang="it">Tennis ATP - GSTAAD</category>
-  </programme>
   <programme start="20250717000000 +0200" stop="20250717120000 +0200" channel="atpgstaadcerundolojmvsgoffind">
     <title lang="it">Inizia alle 12:00.</title>
     <desc lang="it">ATP - GSTAAD : Cerundolo J. M. vs Goffin D..</desc>
@@ -67540,66 +67524,6 @@ Lost Frequencies; James Blunt	- Melody</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">WTA - IASI : Fett J. vs Cristian J.</desc>
     <category lang="it">Tennis WTA - IASI :</category>
-  </programme>
-  <programme start="20250717000000 +0200" stop="20250717100000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250717100000 +0200" stop="20250717120000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250717000000 +0200" stop="20250717100000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250717100000 +0200" stop="20250717120000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250717000000 +0200" stop="20250717100000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250717100000 +0200" stop="20250717120000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250717000000 +0200" stop="20250717100000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250717100000 +0200" stop="20250717120000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250717000000 +0200" stop="20250717100000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250717100000 +0200" stop="20250717120000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250717000000 +0200" stop="20250717100000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250717100000 +0200" stop="20250717120000 +0200" channel="wrcrallyestoniashakedown">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Estonia - Shakedown</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <programme start="20250717000000 +0200" stop="20250717170000 +0200" channel="wrcrallyestonia">
     <title lang="it">Inizia alle 17:00.</title>
