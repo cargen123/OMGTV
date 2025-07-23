@@ -65164,10 +65164,7 @@ Enrique Iglesias - I'm A Freak</desc>
     <category>Series</category>
     <category>Children</category>
   </programme>
-<channel id="superanimalsseason2episode15">
-    <display-name>Super Animals Season 2, Episode 15</display-name>
-  </channel>
-  <channel id="beyondthegatesseason1episode96">
+<channel id="beyondthegatesseason1episode96">
     <display-name>Beyond the Gates Season 1, Episode 96</display-name>
   </channel>
   <channel id="b1gliveb1gfootballmediadayspecialpart2of3">
@@ -65187,9 +65184,6 @@ Enrique Iglesias - I'm A Freak</desc>
   </channel>
   <channel id="topchefvipseason4episode2">
     <display-name>Top Chef VIP Season 4, Episode 2</display-name>
-  </channel>
-  <channel id="clubfriendlyarsenalvsmilan">
-    <display-name>Club Friendly : Arsenal vs Milan</display-name>
   </channel>
   <channel id="clubfriendlytrabzonsporvspersepolis">
     <display-name>Club Friendly : Trabzonspor vs Persepolis</display-name>
@@ -65266,9 +65260,6 @@ Enrique Iglesias - I'm A Freak</desc>
   <channel id="worldchampionshipoflegendsaustraliachampionsvswestindieschampions">
     <display-name>World Championship of Legends : Australia Champions vs. West Indies Champions</display-name>
   </channel>
-  <channel id="atpkitzbuhelbublikavstiranteta">
-    <display-name>ATP - KITZBUHEL : Bublik A. vs Tirante T. A.</display-name>
-  </channel>
   <channel id="atpkitzbuhelbautistaagutrvsseybothwildt">
     <display-name>ATP - KITZBUHEL : Bautista-Agut R. vs Seyboth Wild T.</display-name>
   </channel>
@@ -65310,12 +65301,6 @@ Enrique Iglesias - I'm A Freak</desc>
   </channel>
   <channel id="atpwashingtonkovacevicavstiafoef">
     <display-name>ATP - WASHINGTON : Kovacevic A. vs Tiafoe F.</display-name>
-  </channel>
-  <channel id="wtapraguenoskovalvscocciarettoe">
-    <display-name>WTA - PRAGUE : Noskova L. vs Cocciaretto E.</display-name>
-  </channel>
-  <channel id="wtapraguewangxinvshavlickoval">
-    <display-name>WTA - PRAGUE : Wang Xin. vs Havlickova L.</display-name>
   </channel>
   <channel id="wtapraguebejleksvsparksa">
     <display-name>WTA - PRAGUE : Bejlek S. vs Parks A.</display-name>
@@ -65410,9 +65395,6 @@ Enrique Iglesias - I'm A Freak</desc>
   <channel id="worldfencingchampionshipssemifinalsandfinals">
     <display-name>World Fencing Championships: Semifinals and Finals</display-name>
   </channel>
-  <channel id="liveracingfromaroundtheuk">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
   <channel id="liveracingfromsalisburycatterickleicesterwexfordandnaas">
     <display-name>Live racing from Salisbury, Catterick, Leicester, Wexford and Naas</display-name>
   </channel>
@@ -65434,19 +65416,6 @@ Enrique Iglesias - I'm A Freak</desc>
   <channel id="worldchampionshipwomengreecewvshungaryw">
     <display-name>World Championship Women : Greece W vs Hungary W</display-name>
   </channel>
-  <channel id="worldartisticswimmingchampionshipsfinalmixedduettechnical">
-    <display-name>World Artistic Swimming Championships: Final - Mixed Duet Technical</display-name>
-  </channel>
-  <programme start="20250723000000 +0200" stop="20250723140000 +0200" channel="superanimalsseason2episode15">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Super Animals Season 2, Episode 15.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723140000 +0200" stop="20250723160000 +0200" channel="superanimalsseason2episode15">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Animals Season 2, Episode 15</desc>
-    <category lang="it">TV Shows</category>
-  </programme>
   <programme start="20250723000000 +0200" stop="20250723200000 +0200" channel="beyondthegatesseason1episode96">
     <title lang="it">Inizia alle 20:00.</title>
     <desc lang="it">Beyond the Gates Season 1, Episode 96.</desc>
@@ -65516,186 +65485,6 @@ Enrique Iglesias - I'm A Freak</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Top Chef VIP Season 4, Episode 2</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="clubfriendlyarsenalvsmilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Club Friendly : Arsenal vs Milan</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <programme start="20250723000000 +0200" stop="20250723160000 +0200" channel="clubfriendlytrabzonsporvspersepolis">
     <title lang="it">Inizia alle 16:00.</title>
@@ -66607,16 +66396,6 @@ Enrique Iglesias - I'm A Freak</desc>
     <desc lang="it">World Championship of Legends : Australia Champions vs. West Indies Champions</desc>
     <category lang="it">Cricket</category>
   </programme>
-  <programme start="20250723000000 +0200" stop="20250723140000 +0200" channel="atpkitzbuhelbublikavstiranteta">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">ATP - KITZBUHEL : Bublik A. vs Tirante T. A..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723140000 +0200" stop="20250723160000 +0200" channel="atpkitzbuhelbublikavstiranteta">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP - KITZBUHEL : Bublik A. vs Tirante T. A.</desc>
-    <category lang="it">Tennis ATP - KITZBUHEL</category>
-  </programme>
   <programme start="20250723000000 +0200" stop="20250723153000 +0200" channel="atpkitzbuhelbautistaagutrvsseybothwildt">
     <title lang="it">Inizia alle 15:30.</title>
     <desc lang="it">ATP - KITZBUHEL : Bautista-Agut R. vs Seyboth Wild T..</desc>
@@ -66756,26 +66535,6 @@ Enrique Iglesias - I'm A Freak</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP - WASHINGTON : Kovacevic A. vs Tiafoe F.</desc>
     <category lang="it">Tennis ATP - WASHINGTON</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723140000 +0200" channel="wtapraguenoskovalvscocciarettoe">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - PRAGUE : Noskova L. vs Cocciaretto E..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723140000 +0200" stop="20250723160000 +0200" channel="wtapraguenoskovalvscocciarettoe">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - PRAGUE : Noskova L. vs Cocciaretto E.</desc>
-    <category lang="it">Tennis WTA - PRAGUE</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723140000 +0200" channel="wtapraguewangxinvshavlickoval">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA - PRAGUE : Wang Xin. vs Havlickova L..</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723140000 +0200" stop="20250723160000 +0200" channel="wtapraguewangxinvshavlickoval">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - PRAGUE : Wang Xin. vs Havlickova L.</desc>
-    <category lang="it">Tennis WTA - PRAGUE</category>
   </programme>
   <programme start="20250723000000 +0200" stop="20250723153000 +0200" channel="wtapraguebejleksvsparksa">
     <title lang="it">Inizia alle 15:30.</title>
@@ -67577,16 +67336,6 @@ Enrique Iglesias - I'm A Freak</desc>
     <desc lang="it">World Fencing Championships: Semifinals and Finals</desc>
     <category lang="it">Fencing</category>
   </programme>
-  <programme start="20250723000000 +0200" stop="20250723140000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723140000 +0200" stop="20250723160000 +0200" channel="liveracingfromaroundtheuk">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
   <programme start="20250723000000 +0200" stop="20250723150000 +0200" channel="liveracingfromsalisburycatterickleicesterwexfordandnaas">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">Live racing from Salisbury, Catterick, Leicester, Wexford and Naas.</desc>
@@ -67866,25 +67615,5 @@ Enrique Iglesias - I'm A Freak</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Championship Women : Greece W vs Hungary W</desc>
     <category lang="it">Water Polo</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="worldartisticswimmingchampionshipsfinalmixedduettechnical">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">World Artistic Swimming Championships: Final - Mixed Duet Technical.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="worldartisticswimmingchampionshipsfinalmixedduettechnical">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Artistic Swimming Championships: Final - Mixed Duet Technical</desc>
-    <category lang="it">Water Sports</category>
-  </programme>
-  <programme start="20250723000000 +0200" stop="20250723133000 +0200" channel="worldartisticswimmingchampionshipsfinalmixedduettechnical">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">World Artistic Swimming Championships: Final - Mixed Duet Technical.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250723133000 +0200" stop="20250723153000 +0200" channel="worldartisticswimmingchampionshipsfinalmixedduettechnical">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Artistic Swimming Championships: Final - Mixed Duet Technical</desc>
-    <category lang="it">Water Sports</category>
   </programme>
 </tv>
